@@ -1,4 +1,4 @@
-package design;
+package design_math;
 
 import java.util.HashMap;
 import java.util.Map;

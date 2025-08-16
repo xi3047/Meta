@@ -1,4 +1,4 @@
-package math;
+package design_math;
 
 public class L50_PowerXN {
     /**

@@ -39,7 +39,9 @@ public class L31_NextPermutation {
         }
     }
 
-    /* Variant */
+    /**
+     * Variant: Previous permutation
+     */
     public void previousPermutation(int[] nums) {
         int n = nums.length;
         int i = n - 2;
